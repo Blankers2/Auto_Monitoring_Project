@@ -1,7 +1,7 @@
 # 저작권 모니터링 업무 자동화
 Copyright Monitering for Auto(by python)
 
-# 주사용 모듈
+# 사용 모듈
 selenium
 PIL
 cv2
