@@ -1,5 +1,7 @@
 # 저작권 모니터링 업무 자동화
 Copyright Monitering for Auto(by python)
+- URL, 제목 설정 후 캡처만하면 보고까지 자동!
+- 채증을 원하는 회차 설정 가능
 
 # 사용 모듈
 selenium
